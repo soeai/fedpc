@@ -9,6 +9,11 @@ This page introduces the work of the Federated Deep Learning Framework for Priva
 * We provide a formal analysis of the convergence of the training process as well as the privacy protection of the proposed framework.
 * We carry out extensive experiments with two deep learning problems: image classification and image segmentation. We used two existing deep learning models for the experiments: ResNet50 FIXUP trained on CIFAR-10 dataset and U-Net trained on the LGG SegmentationDataset. We compared the performance (i.e., accuracy) and efficiency (i.e., communication overhead) of the proposed framework with an existing work.
 
+### User guide
+####  Requirements
+* Tensorflow 1.x
+* open-ssh 
+
 
 ### Publicationds
 
