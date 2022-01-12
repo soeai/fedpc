@@ -1,6 +1,6 @@
 ## Introduction
 
-This page introduces the work of the Federated Deep Learning Framework for Privacy-Preserving project from School of Engineering, Tan Tao University. We carry out the research on federated deep learning to address two major issues in distributed deep learning, i.e., data privacy and communication cost.
+This page introduces the work of the A Federated Deep Learning Framework for Privacy Preservation and Communication Efficiency from School of Engineering, Tan Tao University. We carry out the research on federated deep learning to address two major issues in distributed deep learning, i.e., data privacy and communication cost.
 
 * We develop a federated learning framework that consists of a master and a number of workers, which hold their private dataset and contribute to the training of a common model but with private training parameters (e.g., batch size, learning rate). 
 * We develop a communication protocol that allows a worker to inform the master about the evolution of the model parameters without revealing any sensitive information. The protocol also minimizes the communication overhead, i.e., the amount of data exchanged among the master and workers during the training process.
@@ -15,9 +15,9 @@ This page introduces the work of the Federated Deep Learning Framework for Priva
 * open-ssh 
 
 
-### Publicationds
+### Publications
 
-Tien-Dung Cao, Tram Truong-Huu, Hien Tran, Khanh Tran, "An Efficient and Privacy-preserving Federated Learning Framework for Deep Neural Networks", submitted to Journal of Systems Architecture, Special Issue on Cyber Security for Internet of Things.
+Tien-Dung Cao, Tram Truong-Huu, Hien Tran, Khanh Tran, "A Federated Deep Learning Framework for Privacy Preservation and Communication Efficiency", Journal of Systems Architecture, Special Issue on Cyber Security for Internet of Things (Accepted).
 
 ### Support or Contact
 
