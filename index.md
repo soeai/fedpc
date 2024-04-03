@@ -17,7 +17,7 @@ This page introduces the work of the A Federated Deep Learning Framework for Pri
 
 ### Publications
 
-Tien-Dung Cao, Tram Truong-Huu, Hien Tran, Khanh Tran, "A Federated Deep Learning Framework for Privacy Preservation and Communication Efficiency", Journal of Systems Architecture, Special Issue on Cyber Security for Internet of Things (Accepted).
+Tien-Dung Cao, Tram Truong-Huu, Hien Tran, Khanh Tran, "A Federated Deep Learning Framework for Privacy Preservation and Communication Efficiency", Journal of Systems Architecture, Special Issue on Cyber Security for Internet of Things (https://doi.org/10.1016/j.sysarc.2022.102413).
 
 ### Support or Contact
 
